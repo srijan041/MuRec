@@ -13,8 +13,6 @@ dataset = pd.read_csv('Datasets/useful_feature.csv')
 complete_feature_set = pd.read_csv('Datasets/complete_feature.csv')
 
 
-os.environ["SPOTIPY_CLIENT_ID"] = "04787040c97949849646c82ef8b93796"
-os.environ["SPOTIPY_CLIENT_SECRET"] = "3400c76e285e4f9d92bcba39de3db775"
 
 scope = 'user-library-read'
 
