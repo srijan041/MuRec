@@ -185,7 +185,7 @@ def display():
         st.write(track_artist[5][0])
 
 
-st.title('MuRec - A playlist based recommendation app')
+st.title('MuRecx - A playlist based recommendation app')
 
 
 playlistID = ""
